@@ -9,5 +9,14 @@ ___
 # SOLUTION
 
 ```bash
+unzip TH3M00N.zip
+```
+``` bash
+cd TH3M00N.zip
+```
+```bash
+ls
+```
+```bash
 ls -R
 ```
