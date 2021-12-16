@@ -21,3 +21,10 @@ ls
 ```bash
 ls -R
 ```
+![image](https://user-images.githubusercontent.com/73140750/146292535-1575c563-2ebf-47d3-b988-770323f12480.png)
+
+Now we need to copy this path and 'cd' to it then 
+
+```bash
+cat flag.txt
+```
