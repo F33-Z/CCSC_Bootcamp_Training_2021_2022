@@ -41,7 +41,7 @@ The answer is **GitHub**
 
 ## Q5: Where has he gone on holiday? 
 
-By visiting his WordbPress Blog we find  
+By visiting his WordPress Blog we find  
 
 ![2021-12-28 21_59_08-owoodflint – Oliver Woodflint Blog and 7 more pages - Personal - Microsoft​ Edge](https://user-images.githubusercontent.com/79013612/147606605-e19b2614-1870-403a-b76a-1aa5441dc89c.png)
 
@@ -49,7 +49,7 @@ The answer is **New York**
 
 ## Q6: What is this person's password?
 
-In this question, the answer is in the WordPress website but it is a clear text with awhite font color so it can't be seen with the eye. Using CTRL+A we select all the text in the page and we find the answer
+In this question, the answer is in the WordPress website but it is a clear text with a white font color so it can't be seen with the eye. Using CTRL+A we select all the text in the page and we find the answer
 
 ![2021-12-28 22_04_42-owoodflint – Oliver Woodflint Blog and 7 more pages - Personal - Microsoft​ Edge](https://user-images.githubusercontent.com/79013612/147606997-039c6d14-6b2b-4027-9bf7-9fc44db9b916.png)
 
