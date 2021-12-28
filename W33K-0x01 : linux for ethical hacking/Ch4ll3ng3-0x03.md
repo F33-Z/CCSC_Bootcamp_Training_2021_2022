@@ -11,6 +11,6 @@ cat ./-file.txt
 or 
 
 ```bash
-echo "hey" > -file.txt
-cat -- -file.txt
+echo "hey" > -file1.txt
+cat -- -file1.txt
 ```
