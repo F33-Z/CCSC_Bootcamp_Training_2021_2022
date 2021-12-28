@@ -9,6 +9,8 @@ ___
 ```bash
 /usr/bin/echo --help
 ```
+In `Bash` Terminal :
+
 ```bash
 enable -n echo
 echo --help
