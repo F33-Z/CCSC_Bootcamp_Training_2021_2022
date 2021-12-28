@@ -1,4 +1,4 @@
-# Ch4ll3ng3-0x01.md
+# OSINT Challenge 
 
 This OSINT challenge is representing an image you can download from this link: https://drive.google.com/file/d/1Lu5c67hLRbJDclYJ6djj4bs3zYeXFpB8/view
 
